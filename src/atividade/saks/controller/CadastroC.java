@@ -16,6 +16,8 @@ import static javax.swing.JOptionPane.ERROR_MESSAGE;
  */
 public class CadastroC {
     
+    //Comentário extremamente útil e informativo
+    
     public static void main(String[] args) {
         LoginMain loginMain = new LoginMain();
         loginMain.setVisible(true);
