@@ -1,0 +1,2 @@
+SENHA: senha
+PERGUNTAS: resposta
