@@ -18,6 +18,8 @@ public class CadastroC {
     
     //Comentário extremamente útil e informativo
     
+    //Comentário PERIGOSÍSSIMO
+    
     public static void main(String[] args) {
         LoginMain loginMain = new LoginMain();
         loginMain.setVisible(true);
