@@ -17,8 +17,7 @@ import static javax.swing.JOptionPane.ERROR_MESSAGE;
 public class CadastroC {
     
     //Comentário extremamente útil e informativo
-    
-    //Ameaça neutralizada
+    //Comentário extremamente útil e informativo 2
     
     public static void main(String[] args) {
         LoginMain loginMain = new LoginMain();
