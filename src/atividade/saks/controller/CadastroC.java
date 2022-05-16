@@ -18,7 +18,7 @@ public class CadastroC {
     
     //Comentário extremamente útil e informativo
     
-    //Comentário PERIGOSÍSSIMO
+    //Ameaça neutralizada
     
     public static void main(String[] args) {
         LoginMain loginMain = new LoginMain();
